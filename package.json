@@ -2,6 +2,7 @@
   "name": "paste-clipboard-to-files",
   "displayName": "Paste Clipboard to Files",
   "description": "Create files from clipboard content with path comments",
+  "publisher": "RonPark",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.75.0"
